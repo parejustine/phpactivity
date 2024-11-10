@@ -43,7 +43,7 @@
         <div
             style="border:3px solid <?php echo $borderColor; ?>; width: <?php echo $canvasWidth; ?>px; height: <?php echo $canvasHeight; ?>px; overflow:hidden;">
 
-            <img src="images/profile.jflf" alt="Image for Canvas" width="<?php echo $canvasWidth; ?>"
+            <img src="images/images.jpeg" alt="Image for Canvas" width="<?php echo $canvasWidth; ?>"
                 height="<?php echo $canvasHeight; ?>">  
         </div>
     </form>
